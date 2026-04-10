@@ -7,7 +7,7 @@ It's jankey, but adds stuff like
 --A mapping function (reads screen for worlds like 'north'/etc)
    (this gives directions in current room, and isn't perfect)
 
-To use it, open web-terminal and past script into 
+To use it, open web-console (ctrl+k on firefox) & past script into 
 it for a game running on 'parchment' 
 (the tool for running interactive fiction)
 Browsers should give a warning about pasting to web-terminal. 
